@@ -1,3 +1,5 @@
+This is DOWNGRADED version that is compatible with the Rust-SGX-SDK library.
+
 ![](/static/marteau.jpg)
 
 *Le marteau-pilon, forges et aciéries de Saint-Chamond, Joseph-Fortuné LAYRAUD, 1889*
